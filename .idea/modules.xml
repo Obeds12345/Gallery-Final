@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Gallery/.idea/Gallery.iml" filepath="$PROJECT_DIR$/../Gallery/.idea/Gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ilerasoft Angular/ilerasoft-angular/.idea/Ilerasoft Angular.iml" filepath="$PROJECT_DIR$/../../../ilerasoft Angular/ilerasoft-angular/.idea/Ilerasoft Angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test-Final.iml" filepath="$PROJECT_DIR$/.idea/Test-Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TryTest/.idea/TryTest.iml" filepath="$PROJECT_DIR$/../TryTest/.idea/TryTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ilerasoft/.idea/ilerasoft.iml" filepath="$PROJECT_DIR$/../ilerasoft/.idea/ilerasoft.iml" />
+    </modules>
+  </component>
+</project>

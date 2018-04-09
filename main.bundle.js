@@ -284,7 +284,7 @@ module.exports = "<!--The content below is only a placeholder and can be replace
 
 /***/ }),
 
-/***/ "./src/app/app.component.ts":
+/***/ "./src/app/app.component.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -311,7 +311,7 @@ var AppComponent = /** @class */ (function () {
     return AppComponent;
 }());
 
-
+//# sourceMappingURL=app.component.js.map
 
 /***/ }),
 
@@ -326,7 +326,7 @@ var AppComponent = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_forms__ = __webpack_require__("./node_modules/@angular/forms/esm5/forms.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ng2_bootstrap__ = __webpack_require__("./node_modules/ng2-bootstrap/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__angular_router__ = __webpack_require__("./node_modules/@angular/router/esm5/router.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__app_component__ = __webpack_require__("./src/app/app.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__app_component_js__ = __webpack_require__("./src/app/app.component.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__navbar_navbar_component__ = __webpack_require__("./src/app/navbar/navbar.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__gallery_gallery_component__ = __webpack_require__("./src/app/gallery/gallery.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__image_image_detail_component__ = __webpack_require__("./src/app/image/image-detail.component.ts");
@@ -358,7 +358,7 @@ var AppModule = /** @class */ (function () {
     AppModule = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["I" /* NgModule */])({
             declarations: [
-                __WEBPACK_IMPORTED_MODULE_6__app_component__["a" /* AppComponent */],
+                __WEBPACK_IMPORTED_MODULE_6__app_component_js__["a" /* AppComponent */],
                 __WEBPACK_IMPORTED_MODULE_7__navbar_navbar_component__["a" /* NavbarComponent */],
                 __WEBPACK_IMPORTED_MODULE_8__gallery_gallery_component__["a" /* GalleryComponent */],
                 __WEBPACK_IMPORTED_MODULE_9__image_image_detail_component__["a" /* ImageDetailComponent */],
@@ -372,7 +372,7 @@ var AppModule = /** @class */ (function () {
                 __WEBPACK_IMPORTED_MODULE_5__angular_router__["b" /* RouterModule */].forRoot(__WEBPACK_IMPORTED_MODULE_12__routes__["a" /* appRoutes */])
             ],
             providers: [__WEBPACK_IMPORTED_MODULE_10__shared_image_service__["a" /* ImageService */], __WEBPACK_IMPORTED_MODULE_11__shared_filter_pipe__["a" /* ImageFilterPipe */]],
-            bootstrap: [__WEBPACK_IMPORTED_MODULE_6__app_component__["a" /* AppComponent */]]
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_6__app_component_js__["a" /* AppComponent */]]
         })
     ], AppModule);
     return AppModule;
